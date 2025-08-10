@@ -1,0 +1,2 @@
+# AI MEDICAL RECORD DIGITIZATION
+school project
